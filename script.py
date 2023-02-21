@@ -13,7 +13,7 @@ def load_lottieurl(url):
 
 # load assets
 lottie = load_lottieurl("https://assets9.lottiefiles.com/packages/lf20_Jj1h5xMtEv.json")
-img_mountain = Image.open("images/IMG_0306.jpg")
+# img_mountain = Image.open("images/IMG_0306.jpg")
 
 # header section
 with st.container():
